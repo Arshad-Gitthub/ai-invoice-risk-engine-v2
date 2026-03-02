@@ -8,7 +8,7 @@ VENDORS = {
    "V003": {"name":"Gulf Packaging Co.","category":"Packaging","range":(1500,15000),"terms":30,"gl":"4000300","cc":"CC_MANUF_001","risk_base":0.10},
    "V004": {"name":"TechParts MENA","category":"Spare Parts","range":(3000,50000),"terms":60,"gl":"4000400","cc":"CC_MAINT_003","risk_base":0.04},
    "V005": {"name":"Arabia Office Supplies","category":"General Expenses","range":(200,5000),"terms":15,"gl":"4000500","cc":"CC_ADMIN_004","risk_base":0.03},
-}ANOMALY_TYPES = ["overpayment","ghost_vendor","duplicate_fraud","line_mismatch","backdated","round_number","split_invoice"]
+}ANOMALY_TYPES = ["overpayment", "ghost_vendor", "duplicate_fraud", "line_mismatch", "backdated", "round_number", "split_invoice"]
 
 EMAIL_TEMPLATES = {
 
